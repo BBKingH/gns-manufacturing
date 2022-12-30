@@ -1,0 +1,2 @@
+/** Add price column in order_log **/
+ALTER TABLE wf_ordel_log ADD COLUMN price double(8,2);
